@@ -1,0 +1,6 @@
+wait 20
+send /login minecraft1234
+wait 20
+send /survival
+wait 10
+move up

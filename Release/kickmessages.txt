@@ -1,0 +1,6 @@
+Connection has been lost
+You got kicked because you were AFK
+[AFK-KICK] You got kicked because you were AFK
+Server is restarting
+Server is full
+Too Many people
