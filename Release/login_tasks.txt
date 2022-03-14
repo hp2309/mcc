@@ -1,6 +1,6 @@
 wait 20
-send /login minecraft1234
+send /login hp2309
 wait 20
-send /survival
-wait 10
-move up
+useitem
+wait 20
+inventory container click 15
